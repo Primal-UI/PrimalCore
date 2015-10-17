@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: |cffff7d0aPrimalCore|r
+## Notes: Core component of PrimalUI.
+## Author: meribold
+## Version: 0.1
+
+core.lua
